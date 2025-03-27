@@ -1,3 +1,5 @@
+// CI/CD test commit
+
 package org.apache.commons.mail;
 import javax.mail.Session;
 import javax.mail.internet.MimeMessage;
